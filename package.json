@@ -1,0 +1,19 @@
+{
+  "name": "supreme-previews-export",
+  "version": "1.0.0",
+  "description": "Retrieve data from the Supreme preview page",
+  "main": "supreme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Supreme",
+    "previews"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jssoup": "0.0.9"
+  }
+}
